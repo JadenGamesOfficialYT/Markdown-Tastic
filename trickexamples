@@ -1,0 +1,13 @@
+These are 10 tricks from Markdown-Tastic. (~7% out of all 150 tricks.)
+
+Bold (*text*)
+Italic (**text**)
+Size (# huge text -> ###### super tiny text)
+Dot list (* text)
+Dash list (- test)
+Checklist (- [X] or - [ ])
+Color | (red"I am blue")
+Rainbow | (rainbow"text")
+Spoiler | (spoiler"text")
+Link | [text](url)
+and MUCH MORE! (140 more)

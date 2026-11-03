@@ -1,0 +1,23 @@
+1.0 | A live playground: type on the left, watch it change on the right.
+The every-trick page, listing the entire made-up language in one place.
+Colors, text effects, headings, lists, tables, callouts, code blocks and emoji.
+Copy any example, or open it straight in the playground.
+
+2.0 | Renamed the whole thing to Markdowntastic, with a brand new logo.
+Light and dark mode, with a switch in the header. It starts in light mode.
+Fixed motion & magic — the effects actually move now.
+New ??? block: turns a question into a big proper title.
+11 new tricks in total, including speech bubbles, keycaps, sticky notes and captions.
+Dash lists now use dashes instead of dots, so they finally look different.
+Removed the Surprise me button. You're the surprise now.
+
+2.5 | 10 new decorations: wings, halos, horns, eyes, crowns, cat ears, a mustache, flames, tentacles and lightning.
+Colors now recolor everything, including footnotes and decorated tricks: (red"~a red footnote~").
+Stack tricks with a + — (blue+glow"like this") or (wave+wings"like that"). One color, as many effects as you want.
+Glowing things take a color too: glow, neon, sparkle, halo and lightning all glow in whatever color you give them.
+New Somewhat useful section with (line-middle) and (line-right) for aligning the rest of a line.
+Fixed the logo not showing up in light mode.
+
+FUTURE PLANS
+3.0 Plan: save as png, save as pdf, save as code and load code to show someone's text (useful for previews with interactible things like spoilers or links)
+3.1 Plan: maybe bug fixes
